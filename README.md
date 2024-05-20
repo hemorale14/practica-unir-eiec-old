@@ -100,3 +100,4 @@ Para la ejecución de test unitarios y la generacion de reporte de coverage se u
 
 `python -m pytest --cov --cov-report html`
 
+Nota: SE ACTUALIZA DOCKERFILE A V3.9
